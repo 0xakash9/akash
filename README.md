@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm a JS/TS Developer, Lerning Golang Currently.
+I'm a JS/TS Developer, currently learning Golang.
 
-Currently Building [StickersAI](https://stickers-ai.vercel.app) for creating custom stickers.
+Current Projects:\
+[StickersAI](https://stickers-ai.vercel.app)
 
