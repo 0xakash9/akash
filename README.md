@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi 👋
 
 ### Introduction
-Hi there! I'm Akash. I'm a Software Engineer mostly wokring in Javascript/Typescript Ecosystem.
+Hi there! I'm Akash. I'm a Software Engineer mostly working in the JavaScript/TypeScript ecosystem.
 
 <p align=left>
   <a href="https://skillicons.dev">
