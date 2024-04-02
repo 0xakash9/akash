@@ -1,13 +1,7 @@
 ### Introduction
 Hi there! I'm Akash. I'm a Software Engineer mostly working in the JavaScript/TypeScript ecosystem.
 
-<p align=left>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,svelte,tailwind,nodejs,prisma,graphql,postgresql,mongodb,cloudflare,aws,docker" />
-  </a>
-</p>
 
-Quick links:
 
 <samp>
   <a href="https://akashprasad.xyz/">www</a> .
